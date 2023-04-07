@@ -1,0 +1,414 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>BennourPro - StoreP3 Page</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="shortcut icon" type="image/x-icon" href="images/BPLOGO.JPG">
+        
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+		<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <link rel="stylesheet" href="css/owl.theme.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/slicknav.min.css">
+        <link rel="stylesheet" href="css/responsive.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+		
+		<section class="intro"  id="home">
+			<div class="menu-bar menu">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4">
+							<div id="logo">		
+								<a href=""><img src="images/aa.png" alt="" title=""  height="23px" style="float: left;"/></a>
+							</div>
+						</div>
+						<div class="col-md-8">
+							<ul class="list-unstyled" id="main-menu">
+								<li><a class="active" href="#home">Home</a></li>
+								<li><a href="#features">Features</a></li>
+								<li><a href="#testimonial">About us</a></li>
+								<li><a href="#screenshots">Screenshot</a></li>
+								<!--<li><a href="#clients">Clients</a></li>-->
+								<li><a href="#contact">Contact</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Menu Ends here -->
+			<div class="intro-content">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4 col-sm-6 col-xs-12 intro-image">
+							<img src="images/BPLOGO2.png" alt="" />
+						</div>
+						<div class="col-md-8 col-sm-6 col-xs-12 intro-texts">
+							<h1>BENNOUR PRO - STORE P3 PAGE </h1>
+							<span>خدماتنا : برمجة تطبيقات التسيير و إدارة قواعد البيانات - خدمات التصميم و المونتاج - صيانة عتاد الإعلام الآلي</span>
+							<ul class="list-unstyled">
+								<li><a href="#contact">Contact Us</a></li>
+								<li><a href="#other-features">About App</a></li>
+								<li><a href="https://www.facebook.com/BennourP">Subscribe</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Intro Section Ends -->
+		
+		<section class="features" id="features">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 col-sm-12 wow fadeIn">
+						<h2>خصائص و مميزات برامجنا</h2>
+					</div>
+					<div class="col-md-3 col-sm-6 wow fadeInLeft">
+						<div class="single-service">
+							<p style="background:#EE3867;"><i class="fa fa-heart-o"></i></p>
+							<h3>الأمان</h3>
+							<p>تمتاز برامجنا بنظام حماية عالي من التطفل و من الأخطاء التي من شأنها إتلاف البيانات كما تخلوا من أي ملفات أو برامج ضارة</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 wow fadeInLeft">
+						<div class="single-service">
+							<p style="background:#3DB39D;"><i class="fa fa-pencil"></i></p>
+							<h3>المرونة</h3>
+							<p>تمتاز برامجنا بسهولة الإستعمال حيث أنها لا تحتاج من المستخدم مستوى عالي ليتمكن من استخدامها و فهمها فيكفي أن يكون المستخدم يتقن القراءة</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 wow fadeInRight">
+						<div class="single-service">
+							<p style="background:#57C7ED;"><i class="fa fa-mobile"></i></p>
+							<h3>التناسق</h3>
+							<p>نركز في تصميم برامجنا على التناسق في الألوان و الأشكال لتكون ذات جودة عصرية و مريحة للمستخدم حيث يسهل التعامل معها</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 wow fadeInRight">
+						<div class="single-service">
+							<p style="background:#324E5C;"><i class="fa fa-smile-o"></i></p>
+							<h3>المرافقة</h3>
+							<p>نوفر لكل عملائنا بعد شراء برامجنا الدعم التقني مجانا 15/24 ساعة كما يحصل عملائنا على إشعار فور صدور أي نسخة أو تعديل جديد</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Features Section Ends Here -->
+		
+		<section class="other-features" id="other-features">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5 col-sm-5 wow fadeIn">
+						<img src="images/StoreP3.png" alt="" />
+					</div>
+					<div class="col-md-7 col-sm-7 wow fadeIn">
+						<h2>لتسيير المحلات التجارية 2022 Store P3 حول برنامج</h2>
+						<span>أنت صاحب محل تجاري،مواد غذائية عامة، كوسميتيك،محل صغير؟ هذا هو الحل الأمثل لحمايتك من الخسارة و الإفلاس</span>
+						<ul class="list-unstyled">
+							<li><i class="fa fa-cogs"></i> <p>يتميز بخاصية حفظ تفاصيل الفواتير حيث يمكن متابعة جميع حركات الزبائن و الموردين و تحديد المميزين منهم كما تساعد هذه الخاصية بمعرفة حركة السلع بدقة منذ دخولها حتى خروجها من المحل لتفاذي الضياع أو الخسائر </p></li>
+							<li><i class="fa fa-cogs"></i> <p>ميزة متابعة الدخل اليومي و الفوائد حيث يقوم البرنامج بإحصاء جميع الفوائد و المصاريف و كل المعاملات المالية في نهاية كل يوم و طباعة تقرير فيه قيمة الفوائد لهذا اليوم و قيمة المال الموجود بالصندوق بدقة عالية</p></li>
+							<li><i class="fa fa-cogs"></i> <p>خاصية تعيين المستخدمين و التحكم في الصلاحيات مما يجعل من السهل التعامل مع العمال بالمحل حيث يكون لكل عامل اسم مستخدم و كلمة السر الخاصة به للدخول مع تحديد التعاملات التي يمكنه القيام بها داخل البرنامج </p></li>
+							<li><i class="fa fa-cogs"></i> <p>ميزة الجرد السنوي و أرشفة السنوات مما يساعد في ضبط السلع و فتح سنوات مالية جديدة</p></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--Other Features Ends Here-->
+		
+		<section class="app-screenshot">
+			<div class="container" id="screenshots">
+				<div class="row">
+					<div class="col-md-12 wow fadeInUp">
+						<h2>لقطات من داخل بعض البرنامج</h2>
+					</div>
+					<div id="owl-example" class="owl-carousel col-md-12 wow fadeInUp">
+						<div><img src="images/1.jpg" alt="" /></div>
+						<div><img src="images/2.jpg" alt="" /></div>
+						<div><img src="images/3.jpg" alt="" /></div>
+						<div><img src="images/4.jpg" alt="" /></div>
+						<div><img src="images/5.jpg" alt="" /></div>
+						<div><img src="images/6.jpg" alt="" /></div>
+						<div><img src="images/7.jpg" alt="" /></div>
+						<div><img src="images/8.jpg" alt="" /></div>
+						<div><img src="images/9.jpg" alt="" /></div>
+						<div><img src="images/10.jpg" alt="" /></div>
+						<div><img src="images/11.jpg" alt="" /></div>
+						<div><img src="images/12.jpg" alt="" /></div>
+						<div><img src="images/13.jpg" alt="" /></div>
+						<div><img src="images/14.jpg" alt="" /></div>
+						<div><img src="images/15.jpg" alt="" /></div>
+						<div><img src="images/16.jpg" alt="" /></div>
+						<div><img src="images/1.jpg" alt="" /></div>
+					</div>
+
+				</div>
+			</div>
+		</section>
+		<!-- App Screenshot Ends Here-->
+		
+		<section class="testimonial" id="testimonial">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 wow slideInLeft">
+						<h2>BENNOUR نبدة عن</h2>
+					</div>
+					<div class="col-md-12 wow slideInLeft">
+						<div id="testimonial-carousel" class="owl-carousel col-md-12">
+							<div class="single-client col-md-6">
+								<img src="images/Ben.png" alt="" />
+								<p>أحمد بالنور من مواليد 15 أوت 1996 أعشق كل ما يتعلق بمجال الإعلام الآلي منذ نعومة أظافري حتى أصبحت مهووسا بعالم البرمجة و اتخذتها نمط حياتي حيث قمت بإنشاء"بالنور برو" سنة 2019 كما أن لدي خبرة في مجال تدريس الإعلام الآلي بالعديد من مجالاته</p>
+								<ul class="list-unstyled">
+									<li><a href=""><i class="fa fa-star"></i></a></li>
+									<li><a href=""><i class="fa fa-star"></i></a></li>
+									<li><a href=""><i class="fa fa-star"></i></a></li>
+									<li><a href=""><i class="fa fa-star"></i></a></li>
+									<li><a href=""><i class="fa fa-star"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</section>
+		<!--Testimonial Section Ends Here-->
+		
+		<section class="clients-logo" id="clients">
+			<div class="container">
+				<div class="row">
+					<!--<div id="clients-logo" class="owl-carousel col-md-12 wow slideInRight">
+						<div><img src="images/client02.png" alt="" /></div>
+						<div><img src="images/client06.png" alt="" /></div>
+						<div><img src="images/client03.png" alt="" /></div>
+						<div><img src="images/client04.png" alt="" /></div>
+						<div><img src="images/client05.png" alt="" /></div>
+						<div><img src="images/client06.png" alt="" /></div>
+						<div><img src="images/client07.png" alt="" /></div>
+						<div><img src="images/client01.png" alt="" /></div>
+						<div><img src="images/client08.png" alt="" /></div>
+						<div><img src="images/client09.png" alt="" /></div>
+					</div>-->
+				</div>
+			</div>
+		</section>
+		<!-- Clients Logo Section Ends Here --> 
+		
+		<section class="price-list">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 wow zoomIn">
+						<h2>Store P3 3.1</h2>
+					</div>
+					<div class="col-md-4 wow slideInLeft">
+						<ul class="list-unstyled">
+							<li class="item-type">النسخة المصغرة</li>
+							<li class="item-price">
+								<span class="price-text">18000,00</span>
+								<span class="offer-text">نسخة مصغرة لا تحتوي إلا على بعض العمليات كالتالي</span>
+							</li>
+							<li>تسجيل فواتير الشراء</li>
+							<li>متابعة أموال الموردين</li>
+							<li>متابعة المخزون</li>
+							<li>عمليات البيع</li>
+							<li>دعم تقني مجاني</li>
+							<li><a href="">شراء</a></li>
+						</ul>
+					</div>
+					<div class="col-md-4 wow slideInUp">
+						<ul class="list-unstyled focused">
+							<li class="item-type">النسخة المحدودة</li>
+							<li class="item-price">
+								<span class="price-text">27000,00</span>
+								<span class="offer-text">نسخة محدودة قريبة من النسخة الكاملة إلا أنها لا تحتوي على بعض الميزات</span>
+							</li>
+							<li>لا يمكن إضافة زبون مدان مباشرة</li>
+							<li>لا يمكن عملية الجرد السنوي</li>
+							<li>لا يمكن أرشفة السنوات</li>
+							<li>نسحة محدودة الصلاحيات</li>
+							<li>دعم تقني مجاني</li>
+							<li><a href="">شراء</a></li>
+						</ul>
+					</div>
+					<div class="col-md-4 wow slideInRight">
+						<ul class="list-unstyled">
+							<li class="item-type">النسخة الكاملة</li>
+							<li class="item-price">
+								<span class="price-text">32000,00</span>
+								<span class="offer-text">النسخة الكاملة من البرنامج تتوفر على جميع الصلاحيات</span>
+							</li>
+							<li>جميع الصلاحيات متوفرة</li>
+							<li>التحديثات مجانية</li>
+							<li>سهولة الجرد و إنشاء سنوات مالية</li>
+							<li>امكانية تقسيم المبلغ لمرحلتين</li>
+							<li>دعم تقني مجاني</li>
+							<li><a href="">شراء</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Price List Section Ends Here -->
+		
+		<!--<section class="about-app">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5 col-sm-7">
+						<img class="wow slideInLeft" src="images/left-mob-front.png" alt="" />
+						<img class="wow slideInUp" src="images/left-mob-front-2.png" alt="" />
+						
+					</div>
+					<div class="col-md-7 col-sm-5 wow slideInRight">
+						<h2>About Our App</h2>
+						<h3>Best Features of Our App</h3>
+						<p>Integer eu imperdiet augue. Quisque nibh nisi, varius sodales consectetur vitae, volutpat quis odio. Aenean mattis diam molestie maximus condimentum. Fusce vel ipsum ornare nulla efficitur tristique nec et enim. Maecenas ultricies magna et orci ullamcorper egestas.
+						</p>
+						<p>Proin ut mauris ex. Suspendisse sed ante iaculis, elementum diam consectetur, aliquet mauris. Donec sit amet nunc sapien. Nam faucibus velit sed odio sollicitudin posuere. Aliquam ut nisl lectus.</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- About App Section Ends Here -->
+		
+		<section class="get-app" id="subscribe">
+			<div class="container">
+				
+			</div>
+		</section>
+		<!-- Get App Section Ends Here -->
+		
+		<div class="footer">
+			<section class="contact" id="contact">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h2 class="wow fadeIn">أرسل لنا رسالة</h2>
+							<form action="">
+								<input class="wow slideInLeft" type="text" name="" placeholder="Your Name" />
+								<input class="wow slideInRight" type="text" name="" placeholder="Your Email" />
+								<textarea class="wow slideInLeft" name="" placeholder="Your Message"></textarea>
+								<input class="wow slideInRight" type="submit" value="إرسال الرسالة" />
+							</form>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!--Contact Section Ends Here-->
+			
+			<section class="footer-bottom">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<ul  class="wow fadeInUp" class="list-unstyled">
+								<li><a href="https://www.facebook.com/BennourP"><i class="fa fa-facebook"></i></a></li>
+								<li><a href=""><i class="fa fa-instagram"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+		
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+     
+			  $("#owl-example").owlCarousel({
+				items : 4,
+				navigation : false,
+				navigationText : ["prev","next"],
+				paginationNumbers: true
+			  });
+			   $("#testimonial-carousel").owlCarousel({
+				items : 1,
+				itemsCustom : true,
+				itemsDesktop : [1199,1],
+				itemsDesktopSmall : [980,1],
+				itemsTablet: [768,1],
+				itemsTabletSmall: true,
+				itemsMobile : [479,1],
+				singleItem : true,
+				itemsScaleUp : true,
+				responsive : true
+			   });
+			   $("#clients-logo").owlCarousel({
+				items : 6,
+				paginationNumbers : false,
+				navigation : false,
+			   });
+			});
+		</script>
+        <script src="js/wow.min.js"></script>
+		<script>
+		  new WOW().init();
+		</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+		<script type="text/javascript">
+			// handle links with @href started with '#' only
+			$(document).on('click', 'a[href^="#"]', function(e) {
+				// target element id
+				var id = $(this).attr('href');
+				// target element
+				var $id = $(id);
+				if ($id.length === 0) {
+					return;
+				}
+				// prevent standard hash navigation (avoid blinking in IE)
+				e.preventDefault();
+				// top position relative to the document
+				var pos = $(id).offset().top;
+				// animated top scrolling
+				$('body, html').animate({scrollTop: pos}, 1000);
+			});
+		</script>
+		<script type="text/javascript">
+			// Create a clone of the menu, right next to original.
+			$('.menu').addClass('original').clone().insertAfter('.menu').addClass('cloned').css('position','fixed').css('top','0').css('margin-top','0').css('z-index','500').css('background','#000').removeClass('original').hide();
+			scrollIntervalID = setInterval(stickIt, 10);
+			function stickIt() {
+			  var orgElementPos = $('.original').offset();
+			  orgElementTop = orgElementPos.top;
+			  if ($(window).scrollTop() >= (orgElementTop)) {
+				// scrolled past the original position; now only show the cloned, sticky element.
+
+				// Cloned element should always have same left position and width as original element.     
+				orgElement = $('.original');
+				coordsOrgElement = orgElement.offset();
+				leftOrgElement = coordsOrgElement.left;  
+				widthOrgElement = orgElement.css('width');
+				$('.cloned').css('left',leftOrgElement+'px').css('top',0).css('width',widthOrgElement).show();
+				$('.original').css('visibility','hidden');
+			  } else {
+				// not scrolled past the menu; only show the original menu.
+				$('.cloned').hide();
+				$('.original').css('visibility','visible');
+			  }
+			}
+		</script>
+		<script src="js/jquery.slicknav.min.js"></script>
+		<script>
+			$(function(){
+				$('#main-menu').slicknav();
+			});
+		</script>
+    </body>
+</html>
